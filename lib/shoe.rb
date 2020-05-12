@@ -5,6 +5,8 @@ class Shoe
   
   def brand 
   end
+  
+  def 
 
 
 
