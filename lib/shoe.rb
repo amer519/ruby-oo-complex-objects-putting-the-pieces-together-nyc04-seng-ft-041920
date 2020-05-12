@@ -8,7 +8,13 @@ class Shoe
     
   end
   
-  def 
+  def brand=(brand)
+    @brand = brand
+  end
+  
+  def brand
+    @brand
+  end
   
   
 
